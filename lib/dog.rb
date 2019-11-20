@@ -1,7 +1,7 @@
 class Dog
   def bark
     puts "Woof!"
-  respond_to
+  end
 
     def sit
       puts "The Dog is sitting"
